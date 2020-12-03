@@ -248,7 +248,7 @@ body {
 	}
 
 	.conteudoPrincipal-cursos-link:nth-child(3n) {
-		margin-right: 0;
+		margin-right: 1;
 	}
 
 	.conteudoPrincipal-cursos-link:nth-child(3n+1) {
